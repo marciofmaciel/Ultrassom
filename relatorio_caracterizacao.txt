@@ -1,0 +1,43 @@
+======================================================================
+RELATÓRIO DE CARACTERIZAÇÃO ULTRASSÔNICA
+Laminado de Fibra de Carbono
+======================================================================
+
+PARÂMETROS DO MATERIAL:
+  Espessura: 4.87 mm
+  Densidade: 1573 kg/m³
+  Temperatura: 21.0 °C
+
+VELOCIDADES MÉDIAS:
+
+  Direção 0deg:
+    V_L = 3.8 ± 0.0 m/s
+    V_T = 1.8 ± 0.0 m/s
+    CV_L = 0.17% | CV_T = 0.10%
+
+  Direção 45deg:
+    V_L = 2.3 ± 0.0 m/s
+    V_T = 1.5 ± 0.0 m/s
+    CV_L = 0.04% | CV_T = 0.04%
+
+  Direção 90deg:
+    V_L = 2.0 ± 0.0 m/s
+    V_T = 1.4 ± 0.0 m/s
+    CV_L = 0.05% | CV_T = 0.04%
+
+  Direção Z:
+    V_L = 3.0 ± 0.0 m/s
+    V_T = 1.6 ± 0.0 m/s
+    CV_L = 0.05% | CV_T = 0.04%
+
+----------------------------------------------------------------------
+PROPRIEDADES ELÁSTICAS:
+
+  E₁ = 0.00 ± 0.00 GPa
+  E₂ = 0.00 GPa
+  E₃ = 0.00 GPa
+  G₁₂ = 0.00 GPa
+  G₁₃ = 0.00 GPa
+  G₂₃ = 0.00 GPa
+
+======================================================================
